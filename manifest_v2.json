@@ -15,12 +15,12 @@
     "cover": "media/haibao.png",
     "author": [
       {
-        "name": "奇迹的大橘子",
+        "name": "MatrixFive",
         "bindABAccount": true
       },
       {
-        "name": "MatrixFive",
-        "bindABAccount": true
+        "name": "奇迹的大橘子",
+        "bindABAccount": false
       }
     ]
   },
