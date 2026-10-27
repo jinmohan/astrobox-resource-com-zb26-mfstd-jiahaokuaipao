@@ -1,0 +1,66 @@
+{
+  "item": {
+    "id": "com.zb26.cc.mfstd.jiahaokuaipao",
+    "restype": "quick_app",
+    "name": "嘉豪快跑",
+    "description": "### 嘉豪快跑 - 沉浸式伪3D跑酷\n\n**游戏概述**\n\n嘉豪快跑是一款专为智能手环/手表量身打造的硬核3D动作跑酷游戏。游戏完美还原经典的三轨闪避跑酷玩法，玩家需要通过滑动屏幕穿梭于街头，极限躲避重重障碍。搭配独创的角色大招、宠物合成与双代币任务系统，让您的腕上碎片时间体验极致的速度与激情。\n\n**核心玩法**\n\n* 滑动屏幕极限微操，左右换轨、上跳下铲躲避致命障碍\n* 沿途收集海量金币与炫酷道具，不断挑战突破历史最远纪录\n* 独创动态能量充能机制，达成特定操作即可释放角色专属大招\n\n**游戏模式**\n\n1. **经典无尽模式**：循序渐进难度递增，挑战极限反应与最远距离\n2. **淘金狂欢模式**：限时60秒，零障碍纯享满屏金币收割快感\n3. **死亡冲锋模式**：开局即极速，纯硬核躲避，结算畅享25倍金币巨额补偿\n\n**养成系统**\n\n* **角色构筑**：三大原创角色登场（豪情在天、碾碎障碍、强力咆哮）\n* **神宠护航**：六大元素（金/磁/烈/森/秘/幻）提供开局护盾、极限擦弹等强力被动\n* **三合一升星**：硬核宠物合成引擎，三只同星级宠物可融合重铸最高 9★ 终极神兽\n* **道具强化**：消耗金币永久升级磁铁、双倍、喷气背包等5大局内神装的持续时长\n\n**特色功能**\n\n* 每日随机任务与生涯里程碑成就，完成即可获取钻石奖励\n* 金币/钻石双货币闭环，支持局内消耗钻石复活\n* 就很……你们懂吧\n\n**版本信息**\n\n* 版本：V1.6.0\n* 更新历史：\n  * 1.2 修复所有设备画面卡死现象，加入紧急撤离按钮\n  * 1.3 修复小米手环11贴图错位\n  * 1.4 修复刷钱bug\n  * 1.5 加入画面设置，手环10推荐中档，10Pro高或超高档，其他设备请自行选择最合适配置\n  * 1.6 修复部分设备合成宠物重启，宠物仓库加入80只上限",
+    "preview": [
+      "media/haibao.png",
+      "media/1.png",
+      "media/2.png",
+      "media/3.png",
+      "media/4.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/haibao.png",
+    "author": [
+      {
+        "name": "奇迹的大橘子",
+        "bindABAccount": true
+      },
+      {
+        "name": "MatrixFive",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.6.0",
+      "file_name": "downloads/jhkp rw.1.6.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.6.0",
+      "file_name": "downloads/jhkp rw.1.6.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.6.0",
+      "file_name": "downloads/jhkp m10&11.1.6.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.6.0",
+      "file_name": "downloads/jhkp pro.1.6.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.6.0",
+      "file_name": "downloads/jhkp m10&11.1.6.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.6.0",
+      "file_name": "downloads/jhkp m9.1.6.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.6.0",
+      "file_name": "downloads/jhkp pro.1.6.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
